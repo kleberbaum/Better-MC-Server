@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_block"
+  },
+  "result": {
+    "id": "minecraft:chiseled_bookshelf",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

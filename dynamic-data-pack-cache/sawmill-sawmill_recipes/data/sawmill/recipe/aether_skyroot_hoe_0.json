@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "deep_aether:conberry_log"
+    },
+    {
+      "item": "deep_aether:conberry_wood"
+    },
+    {
+      "item": "deep_aether:stripped_conberry_log"
+    },
+    {
+      "item": "deep_aether:stripped_conberry_wood"
+    }
+  ],
+  "result": {
+    "id": "aether:skyroot_hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

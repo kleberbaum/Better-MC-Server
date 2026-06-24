@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:white_mangrove_planks"
+  },
+  "result": {
+    "id": "biomeswevegone:white_mangrove_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

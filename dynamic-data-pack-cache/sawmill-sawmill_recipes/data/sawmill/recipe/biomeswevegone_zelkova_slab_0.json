@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:zelkova_log"
+    },
+    {
+      "item": "biomeswevegone:zelkova_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_zelkova_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_zelkova_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:zelkova_slab",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

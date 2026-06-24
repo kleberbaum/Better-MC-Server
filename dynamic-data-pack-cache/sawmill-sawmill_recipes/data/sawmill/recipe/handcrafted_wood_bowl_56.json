@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:zelkova_log"
+    },
+    {
+      "item": "biomeswevegone:zelkova_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_zelkova_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_zelkova_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

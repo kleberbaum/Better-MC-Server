@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:palm_log"
+    },
+    {
+      "item": "biomeswevegone:palm_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_palm_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_palm_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:palm_chest_boat",
+    "count": 1
+  },
+  "ingredient_count": 3,
+  "type": "sawmill:woodcutting"
+}

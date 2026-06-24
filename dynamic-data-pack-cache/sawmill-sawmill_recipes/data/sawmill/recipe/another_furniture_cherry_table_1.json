@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:cherry_planks"
+  },
+  "result": {
+    "id": "another_furniture:cherry_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

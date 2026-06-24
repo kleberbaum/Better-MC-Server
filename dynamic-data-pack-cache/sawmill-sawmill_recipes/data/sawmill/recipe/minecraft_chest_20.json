@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:palm_log"
+    },
+    {
+      "item": "biomeswevegone:palm_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_palm_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_palm_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chest",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

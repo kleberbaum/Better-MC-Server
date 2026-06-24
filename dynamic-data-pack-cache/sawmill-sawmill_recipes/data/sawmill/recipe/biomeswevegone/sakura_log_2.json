@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:sakura_log"
+  },
+  "result": {
+    "id": "biomeswevegone:sakura_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

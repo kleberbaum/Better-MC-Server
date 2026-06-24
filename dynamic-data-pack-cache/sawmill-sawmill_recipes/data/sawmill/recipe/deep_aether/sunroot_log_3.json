@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "deep_aether:sunroot_wood"
+  },
+  "result": {
+    "id": "deep_aether:sunroot_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

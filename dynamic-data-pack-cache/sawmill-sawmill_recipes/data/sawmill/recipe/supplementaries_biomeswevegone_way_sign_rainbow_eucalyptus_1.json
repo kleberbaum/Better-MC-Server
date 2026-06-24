@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:rainbow_eucalyptus_planks"
+  },
+  "result": {
+    "id": "supplementaries:biomeswevegone/way_sign_rainbow_eucalyptus",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

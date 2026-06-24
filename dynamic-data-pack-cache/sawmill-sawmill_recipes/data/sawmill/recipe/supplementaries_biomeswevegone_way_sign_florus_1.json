@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:florus_planks"
+  },
+  "result": {
+    "id": "supplementaries:biomeswevegone/way_sign_florus",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

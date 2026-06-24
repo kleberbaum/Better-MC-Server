@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:stripped_zelkova_log"
+  },
+  "result": {
+    "id": "biomeswevegone:stripped_zelkova_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

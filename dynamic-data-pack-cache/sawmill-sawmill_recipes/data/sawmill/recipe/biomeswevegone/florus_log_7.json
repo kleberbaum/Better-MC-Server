@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:stripped_florus_stem"
+  },
+  "result": {
+    "id": "biomeswevegone:stripped_florus_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

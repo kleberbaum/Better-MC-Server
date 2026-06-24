@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:jacaranda_log"
+    },
+    {
+      "item": "biomeswevegone:jacaranda_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_jacaranda_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_jacaranda_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:jacaranda_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

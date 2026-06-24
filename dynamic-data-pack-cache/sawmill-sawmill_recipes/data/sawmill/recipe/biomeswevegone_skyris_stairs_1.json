@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:skyris_planks"
+  },
+  "result": {
+    "id": "biomeswevegone:skyris_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

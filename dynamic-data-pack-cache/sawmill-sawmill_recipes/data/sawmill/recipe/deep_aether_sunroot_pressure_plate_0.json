@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "deep_aether:sunroot_log"
+    },
+    {
+      "item": "deep_aether:sunroot_wood"
+    },
+    {
+      "item": "deep_aether:stripped_sunroot_log"
+    },
+    {
+      "item": "deep_aether:stripped_sunroot_wood"
+    }
+  ],
+  "result": {
+    "id": "deep_aether:sunroot_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

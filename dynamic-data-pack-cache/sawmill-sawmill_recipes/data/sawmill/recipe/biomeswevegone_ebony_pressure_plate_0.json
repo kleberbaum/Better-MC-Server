@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:ebony_log"
+    },
+    {
+      "item": "biomeswevegone:ebony_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_ebony_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_ebony_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:ebony_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

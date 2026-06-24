@@ -1,0 +1,576 @@
+{
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-24 11:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2026-06-24 11:56:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_door": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2026-06-24 11:59:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/hourglass": {
+    "criteria": {
+      "has_tag_c_ingots_gold_2": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-24 11:56:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-06-24 11:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-06-24 11:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2026-06-24 11:54:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2026-06-24 11:58:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2026-06-24 11:56:46 +0000"
+    },
+    "done": true
+  },
+  "dmr:dragon_egg_ghost": {
+    "criteria": {
+      "obtained_dragon_egg": "2026-06-24 11:59:38 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2026-06-24 11:56:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/drying/drying/sapling_to_dead_bush": {
+    "criteria": {
+      "has_sapling": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-06-24 11:58:42 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-06-24 11:54:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-24 11:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2026-06-24 11:59:39 +0000"
+    },
+    "done": true
+  },
+  "dmr:find_egg": {
+    "criteria": {
+      "obtained_dragon_egg": "2026-06-24 11:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2026-06-24 11:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2026-06-24 11:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2026-06-24 11:58:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/key": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/stone_lamp": {
+    "criteria": {
+      "has_item_minecraft_torch_2": "2026-06-24 11:58:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2026-06-24 11:58:41 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2026-06-24 11:58:42 +0000"
+    },
+    "done": true
+  },
+  "barteringstation:recipes/decorations/bartering_station": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2026-06-24 11:58:41 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-06-24 11:56:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/feather_block": {
+    "criteria": {
+      "has_item_minecraft_feather_1": "2026-06-24 11:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "chicken": "2026-06-24 11:56:30 +0000",
+      "bread": "2026-06-24 11:58:14 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2026-06-24 11:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "dmr:main": {
+    "criteria": {
+      "unlock_right_away": "2026-06-24 11:54:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2026-06-24 11:54:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/onion_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-24 11:57:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2026-06-24 11:59:17 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-06-24 11:54:20 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-06-24 11:58:41 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-06-24 11:54:20 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/food/stuffed_squid": {
+    "criteria": {
+      "has_rice": "2026-06-24 11:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2026-06-24 11:55:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_bars": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/drying/chicken_jerky": {
+    "criteria": {
+      "has_meat": "2026-06-24 11:56:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_trapdoor": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_gate": {
+    "criteria": {
+      "has_tag_c_ingots_gold_2": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-06-24 11:54:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2026-06-24 11:54:43 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/gold]": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-06-24 11:56:16 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:orchard": "2026-06-24 11:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2026-06-24 11:56:17 +0000"
+    },
+    "done": true
+  },
+  "adventuredungeons:adventuredungeons/root": {
+    "criteria": {
+      "killed_something": "2026-06-24 11:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2026-06-24 11:56:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2026-06-24 11:56:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:orchard": "2026-06-24 11:54:47 +0000",
+      "biomeswevegone:allium_shrubland": "2026-06-24 11:57:25 +0000"
+    },
+    "done": false
+  },
+  "hybrid-aquatic:recipes/building_blocks/buoy": {
+    "criteria": {
+      "has_lantern": "2026-06-24 11:58:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-06-24 11:56:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2026-06-24 11:59:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-24 11:59:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "sawmill:recipes/sawmill": {
+    "criteria": {
+      "has_fences": "2026-06-24 11:55:53 +0000",
+      "has_slabs": "2026-06-24 11:55:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sconce": {
+    "criteria": {
+      "has_item_minecraft_torch_1": "2026-06-24 11:58:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/golden_egg": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-06-24 11:55:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-06-24 11:58:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2026-06-24 11:59:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2026-06-24 11:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_hills": "2026-06-24 11:54:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2026-06-24 11:56:45 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:mahogany_planks"
+  },
+  "result": {
+    "id": "supplementaries:biomeswevegone/way_sign_mahogany",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

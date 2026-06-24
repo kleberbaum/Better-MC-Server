@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:holly_planks"
+  },
+  "result": {
+    "id": "biomeswevegone:holly_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:fir_log"
+    },
+    {
+      "item": "biomeswevegone:fir_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_fir_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_fir_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

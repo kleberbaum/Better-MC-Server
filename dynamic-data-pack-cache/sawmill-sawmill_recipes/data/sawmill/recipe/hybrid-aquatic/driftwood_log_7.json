@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "hybrid-aquatic:stripped_driftwood_log"
+  },
+  "result": {
+    "id": "hybrid-aquatic:stripped_driftwood_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:fir_log"
+    },
+    {
+      "item": "biomeswevegone:fir_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_fir_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_fir_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:fir_sign",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

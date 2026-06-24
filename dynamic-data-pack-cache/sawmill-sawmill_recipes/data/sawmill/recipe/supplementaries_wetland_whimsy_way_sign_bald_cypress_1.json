@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "wetland_whimsy:bald_cypress_planks"
+  },
+  "result": {
+    "id": "supplementaries:wetland_whimsy/way_sign_bald_cypress",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

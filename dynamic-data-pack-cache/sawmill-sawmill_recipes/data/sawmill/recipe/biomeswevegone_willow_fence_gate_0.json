@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:willow_log"
+    },
+    {
+      "item": "biomeswevegone:willow_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_willow_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_willow_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:willow_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

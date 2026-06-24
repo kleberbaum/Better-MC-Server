@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:palm_wood"
+  },
+  "result": {
+    "id": "biomeswevegone:palm_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

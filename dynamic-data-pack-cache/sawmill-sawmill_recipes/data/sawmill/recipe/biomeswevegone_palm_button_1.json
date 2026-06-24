@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:palm_planks"
+  },
+  "result": {
+    "id": "biomeswevegone:palm_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,1170 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-06-24 11:23:39 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2026-06-24 11:23:39 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-06-24 11:23:39 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2026-06-24 11:23:39 +0000"
+    },
+    "done": true
+  },
+  "dmr:main": {
+    "criteria": {
+      "unlock_right_away": "2026-06-24 11:23:39 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2026-06-24 11:23:39 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-06-24 11:23:39 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-06-24 11:23:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-06-24 11:23:39 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:allium_shrubland": "2026-06-24 11:23:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:orchard": "2026-06-24 11:24:30 +0000",
+      "biomeswevegone:allium_shrubland": "2026-06-24 11:23:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2026-06-24 12:00:06 +0000",
+      "minecraft:windswept_hills": "2026-06-24 11:24:34 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_white": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_blue": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_lime": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/oak_log/hollow_oak_log": {
+    "criteria": {
+      "has_block": "2026-06-24 11:58:18 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/cherry_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/oak_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_yellow": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_green": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_black": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/timber_cross_brace": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shelf": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_drawer": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_red": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/glassblower": {
+    "criteria": {
+      "has_glassblower": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/hat_stand": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/notice_board": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/drying/drying/sapling_to_dead_bush": {
+    "criteria": {
+      "has_sapling": "2026-06-24 11:55:13 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_drawer": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2026-06-24 11:55:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/daub_cross_brace": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/crimson_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2026-06-24 11:58:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-24 12:01:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/faucet": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/bed_from_feather_block": {
+    "criteria": {
+      "has_tag_minecraft_planks_2": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/dark_oak_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/daub_frame": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_light_gray": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/timber_brace": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lock_block": {
+    "criteria": {
+      "has_tag_minecraft_planks_2": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2026-06-24 11:59:31 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2026-06-24 11:54:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_drawer": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_brown": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/chiller": {
+    "criteria": {
+      "has_spruce": "2026-06-24 11:59:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_orange": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/loom_table": {
+    "criteria": {
+      "has_loom_table": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_drawer": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/stone_lamp": {
+    "criteria": {
+      "has_item_minecraft_torch_2": "2026-06-24 11:56:20 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/jungle_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_drawer": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/alchemy_bench": {
+    "criteria": {
+      "has_alchemy_bench": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2026-06-24 12:01:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/spruce_log/hollow_spruce_log": {
+    "criteria": {
+      "has_block": "2026-06-24 11:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2026-06-24 12:01:04 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-06-24 11:55:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/speaker_block": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2026-06-24 11:55:04 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/furniture_hammer": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_drawer": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_drawer": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/onion_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-24 11:54:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-06-24 11:55:13 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_drawer": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/crank": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/wicker_fence": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2026-06-24 12:01:04 +0000"
+    },
+    "done": false
+  },
+  "another_furniture:recipes/spruce_table": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/botanist_workbench": {
+    "criteria": {
+      "has_botanist_workbench": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/spruce_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2026-06-24 12:01:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_cyan": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2026-06-24 11:54:59 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/acacia_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_drawer": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/turn_table": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2026-06-24 11:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-06-24 11:58:18 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2026-06-24 11:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/drying/monster_jerky": {
+    "criteria": {
+      "has_meat": "2026-06-24 12:01:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_drawer": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-06-24 12:00:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannon_2": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2026-06-24 11:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/tinkering_table": {
+    "criteria": {
+      "has_tinkering_table": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/fine_wood": {
+    "criteria": {
+      "has_tag_minecraft_logs_1": "2026-06-24 11:58:18 +0000"
+    },
+    "done": true
+  },
+  "adventuredungeons:adventuredungeons/root": {
+    "criteria": {
+      "killed_by_something": "2026-06-24 12:00:01 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/birch_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/building_blocks/buoy": {
+    "criteria": {
+      "has_lantern": "2026-06-24 11:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/pulley": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/timber_frame": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_purple": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-06-24 11:55:04 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/building_blocks/glowstick": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/daub_brace": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/mason_table": {
+    "criteria": {
+      "has_mason_table": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/slingshot": {
+    "criteria": {
+      "has_tag_c_rods_wooden_1": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "crafting_table": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_pink": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2026-06-24 12:01:36 +0000"
+    },
+    "done": true
+  },
+  "sawmill:recipes/sawmill": {
+    "criteria": {
+      "has_fences": "2026-06-24 11:54:59 +0000",
+      "has_slabs": "2026-06-24 11:54:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2026-06-24 12:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-06-24 11:59:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sconce": {
+    "criteria": {
+      "has_item_minecraft_torch_1": "2026-06-24 11:56:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannon": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_drawer": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-06-24 11:54:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_table": {
+    "criteria": {
+      "has_planks": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/warped_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "hybrid-aquatic:recipes/building_blocks/raft": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/clock_block": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2026-06-24 11:58:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_magenta": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wooden_sword_repairing": {
+    "criteria": {
+      "has_wooden_sword": "2026-06-24 12:01:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_light_blue": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_gray": {
+    "criteria": {
+      "has_tag_c_rods_wooden_2": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_chair": {
+    "criteria": {
+      "has_planks": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-06-24 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2026-06-24 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

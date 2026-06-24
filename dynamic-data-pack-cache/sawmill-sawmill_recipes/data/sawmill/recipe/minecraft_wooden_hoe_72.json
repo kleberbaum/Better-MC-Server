@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "wetland_whimsy:bald_cypress_log"
+    },
+    {
+      "item": "wetland_whimsy:bald_cypress_wood"
+    },
+    {
+      "item": "wetland_whimsy:stripped_bald_cypress_log"
+    },
+    {
+      "item": "wetland_whimsy:stripped_bald_cypress_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

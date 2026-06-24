@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:witch_hazel_log"
+  },
+  "result": {
+    "id": "biomeswevegone:witch_hazel_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

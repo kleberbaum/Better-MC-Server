@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:stripped_white_mangrove_log"
+  },
+  "result": {
+    "id": "biomeswevegone:stripped_white_mangrove_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

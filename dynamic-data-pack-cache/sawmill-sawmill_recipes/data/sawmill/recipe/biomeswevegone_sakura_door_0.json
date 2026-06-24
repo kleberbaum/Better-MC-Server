@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:sakura_log"
+    },
+    {
+      "item": "biomeswevegone:sakura_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_sakura_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_sakura_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:sakura_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:aspen_planks"
+  },
+  "result": {
+    "id": "supplementaries:biomeswevegone/way_sign_aspen",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

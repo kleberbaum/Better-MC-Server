@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:white_mangrove_log"
+    },
+    {
+      "item": "biomeswevegone:white_mangrove_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_white_mangrove_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_white_mangrove_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:white_mangrove_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

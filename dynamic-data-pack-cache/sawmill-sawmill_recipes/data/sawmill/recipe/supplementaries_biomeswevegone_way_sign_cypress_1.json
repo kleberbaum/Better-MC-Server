@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:cypress_planks"
+  },
+  "result": {
+    "id": "supplementaries:biomeswevegone/way_sign_cypress",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:cika_log"
+    },
+    {
+      "item": "biomeswevegone:cika_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_cika_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_cika_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:cika_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

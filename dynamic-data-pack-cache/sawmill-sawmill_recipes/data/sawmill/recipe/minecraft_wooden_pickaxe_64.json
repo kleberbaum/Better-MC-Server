@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:blue_enchanted_log"
+    },
+    {
+      "item": "biomeswevegone:blue_enchanted_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_blue_enchanted_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

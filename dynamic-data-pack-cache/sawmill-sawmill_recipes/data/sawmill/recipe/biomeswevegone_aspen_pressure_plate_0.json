@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:aspen_log"
+    },
+    {
+      "item": "biomeswevegone:aspen_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_aspen_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_aspen_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:aspen_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

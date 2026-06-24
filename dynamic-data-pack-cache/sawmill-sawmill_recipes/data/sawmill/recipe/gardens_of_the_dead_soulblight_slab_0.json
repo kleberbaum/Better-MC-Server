@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "gardens_of_the_dead:soulblight_stem"
+    },
+    {
+      "item": "gardens_of_the_dead:soulblight_hyphae"
+    },
+    {
+      "item": "gardens_of_the_dead:stripped_soulblight_stem"
+    },
+    {
+      "item": "gardens_of_the_dead:stripped_soulblight_hyphae"
+    }
+  ],
+  "result": {
+    "id": "gardens_of_the_dead:soulblight_slab",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

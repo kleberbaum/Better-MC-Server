@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:sakura_log"
+    },
+    {
+      "item": "biomeswevegone:sakura_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_sakura_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_sakura_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

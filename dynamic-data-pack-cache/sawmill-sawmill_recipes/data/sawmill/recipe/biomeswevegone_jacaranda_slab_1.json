@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:jacaranda_planks"
+  },
+  "result": {
+    "id": "biomeswevegone:jacaranda_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

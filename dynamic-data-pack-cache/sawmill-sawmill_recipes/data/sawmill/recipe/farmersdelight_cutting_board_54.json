@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:redwood_log"
+    },
+    {
+      "item": "biomeswevegone:redwood_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_redwood_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_redwood_wood"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:cutting_board",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

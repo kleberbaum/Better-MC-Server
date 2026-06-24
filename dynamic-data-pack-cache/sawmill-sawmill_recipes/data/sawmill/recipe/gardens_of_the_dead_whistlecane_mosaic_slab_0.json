@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "gardens_of_the_dead:whistlecane_block"
+  },
+  "result": {
+    "id": "gardens_of_the_dead:whistlecane_mosaic_slab",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

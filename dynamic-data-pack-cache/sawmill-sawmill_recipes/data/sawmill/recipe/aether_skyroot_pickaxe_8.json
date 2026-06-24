@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "deep_aether:roseroot_log"
+    },
+    {
+      "item": "deep_aether:roseroot_wood"
+    },
+    {
+      "item": "deep_aether:stripped_roseroot_log"
+    },
+    {
+      "item": "deep_aether:stripped_roseroot_wood"
+    }
+  ],
+  "result": {
+    "id": "aether:skyroot_pickaxe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

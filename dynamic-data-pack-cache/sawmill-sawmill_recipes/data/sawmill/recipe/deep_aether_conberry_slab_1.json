@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "deep_aether:conberry_planks"
+  },
+  "result": {
+    "id": "deep_aether:conberry_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

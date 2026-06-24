@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:maple_log"
+    },
+    {
+      "item": "biomeswevegone:maple_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_maple_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_maple_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:maple_boat",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

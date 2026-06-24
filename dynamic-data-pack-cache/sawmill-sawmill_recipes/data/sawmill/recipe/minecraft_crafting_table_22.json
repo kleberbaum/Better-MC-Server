@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:rainbow_eucalyptus_log"
+    },
+    {
+      "item": "biomeswevegone:rainbow_eucalyptus_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_rainbow_eucalyptus_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

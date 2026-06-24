@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "deep_aether:conberry_wood"
+  },
+  "result": {
+    "id": "deep_aether:stripped_conberry_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

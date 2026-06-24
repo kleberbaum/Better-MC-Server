@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:redwood_planks"
+  },
+  "result": {
+    "id": "supplementaries:biomeswevegone/way_sign_redwood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

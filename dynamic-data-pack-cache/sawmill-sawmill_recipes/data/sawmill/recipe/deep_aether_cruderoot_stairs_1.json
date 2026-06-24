@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "deep_aether:cruderoot_planks"
+  },
+  "result": {
+    "id": "deep_aether:cruderoot_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

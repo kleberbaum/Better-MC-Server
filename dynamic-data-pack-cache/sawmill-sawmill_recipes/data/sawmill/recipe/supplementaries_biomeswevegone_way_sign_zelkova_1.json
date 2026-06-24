@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:zelkova_planks"
+  },
+  "result": {
+    "id": "supplementaries:biomeswevegone/way_sign_zelkova",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

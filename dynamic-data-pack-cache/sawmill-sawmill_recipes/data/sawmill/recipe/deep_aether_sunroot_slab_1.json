@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "deep_aether:sunroot_planks"
+  },
+  "result": {
+    "id": "deep_aether:sunroot_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

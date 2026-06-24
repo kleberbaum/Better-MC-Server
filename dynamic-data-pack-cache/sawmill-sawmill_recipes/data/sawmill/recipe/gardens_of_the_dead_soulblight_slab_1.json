@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "gardens_of_the_dead:soulblight_planks"
+  },
+  "result": {
+    "id": "gardens_of_the_dead:soulblight_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

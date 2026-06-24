@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:cypress_log"
+    },
+    {
+      "item": "biomeswevegone:cypress_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_cypress_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_cypress_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:cypress_boat",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

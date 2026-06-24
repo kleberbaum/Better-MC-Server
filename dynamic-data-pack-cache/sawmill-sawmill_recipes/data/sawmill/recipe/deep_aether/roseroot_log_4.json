@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "deep_aether:roseroot_wood"
+  },
+  "result": {
+    "id": "deep_aether:stripped_roseroot_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

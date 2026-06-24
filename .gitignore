@@ -1,0 +1,7 @@
+# Re-downloadable / large
+mods/
+libraries/
+*.jar
+cache/
+defaultconfigs/
+

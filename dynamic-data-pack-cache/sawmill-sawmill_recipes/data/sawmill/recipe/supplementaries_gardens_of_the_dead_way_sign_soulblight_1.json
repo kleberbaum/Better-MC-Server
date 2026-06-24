@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "gardens_of_the_dead:soulblight_planks"
+  },
+  "result": {
+    "id": "supplementaries:gardens_of_the_dead/way_sign_soulblight",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

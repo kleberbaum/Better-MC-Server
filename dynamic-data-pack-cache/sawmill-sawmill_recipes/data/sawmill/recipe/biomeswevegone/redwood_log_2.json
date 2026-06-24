@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:redwood_log"
+  },
+  "result": {
+    "id": "biomeswevegone:redwood_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

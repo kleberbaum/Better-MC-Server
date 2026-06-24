@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:sakura_planks"
+  },
+  "result": {
+    "id": "biomeswevegone:sakura_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:aspen_wood"
+  },
+  "result": {
+    "id": "biomeswevegone:stripped_aspen_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

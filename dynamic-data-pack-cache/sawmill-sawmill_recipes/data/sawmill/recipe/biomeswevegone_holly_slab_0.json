@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:holly_log"
+    },
+    {
+      "item": "biomeswevegone:holly_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_holly_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_holly_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:holly_slab",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:aspen_log"
+  },
+  "result": {
+    "id": "biomeswevegone:aspen_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

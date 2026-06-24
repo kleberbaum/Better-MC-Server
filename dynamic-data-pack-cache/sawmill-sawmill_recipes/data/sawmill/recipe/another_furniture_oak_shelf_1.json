@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:oak_planks"
+  },
+  "result": {
+    "id": "another_furniture:oak_shelf",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

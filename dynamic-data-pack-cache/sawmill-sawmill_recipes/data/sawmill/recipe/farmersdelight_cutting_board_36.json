@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:holly_log"
+    },
+    {
+      "item": "biomeswevegone:holly_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_holly_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_holly_wood"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:cutting_board",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

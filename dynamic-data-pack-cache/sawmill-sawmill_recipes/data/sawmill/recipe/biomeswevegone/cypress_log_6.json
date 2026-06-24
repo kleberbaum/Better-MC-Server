@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:stripped_cypress_wood"
+  },
+  "result": {
+    "id": "biomeswevegone:stripped_cypress_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:holly_wood"
+  },
+  "result": {
+    "id": "biomeswevegone:stripped_holly_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

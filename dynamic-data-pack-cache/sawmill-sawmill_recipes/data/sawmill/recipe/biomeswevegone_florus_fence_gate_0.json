@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:florus_stem"
+    },
+    {
+      "item": "biomeswevegone:florus_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_florus_stem"
+    },
+    {
+      "item": "biomeswevegone:stripped_florus_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:florus_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

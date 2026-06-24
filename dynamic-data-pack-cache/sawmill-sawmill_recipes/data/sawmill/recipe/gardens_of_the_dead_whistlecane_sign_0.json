@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "gardens_of_the_dead:whistlecane_block"
+  },
+  "result": {
+    "id": "gardens_of_the_dead:whistlecane_sign",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "deep_aether:roseroot_log"
+    },
+    {
+      "item": "deep_aether:roseroot_wood"
+    },
+    {
+      "item": "deep_aether:stripped_roseroot_log"
+    },
+    {
+      "item": "deep_aether:stripped_roseroot_wood"
+    }
+  ],
+  "result": {
+    "id": "deep_aether:roseroot_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

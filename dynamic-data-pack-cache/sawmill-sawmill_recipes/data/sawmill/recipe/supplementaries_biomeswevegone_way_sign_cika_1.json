@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:cika_planks"
+  },
+  "result": {
+    "id": "supplementaries:biomeswevegone/way_sign_cika",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

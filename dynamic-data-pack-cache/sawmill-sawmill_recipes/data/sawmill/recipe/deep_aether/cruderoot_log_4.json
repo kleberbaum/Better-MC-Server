@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "deep_aether:cruderoot_wood"
+  },
+  "result": {
+    "id": "deep_aether:stripped_cruderoot_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

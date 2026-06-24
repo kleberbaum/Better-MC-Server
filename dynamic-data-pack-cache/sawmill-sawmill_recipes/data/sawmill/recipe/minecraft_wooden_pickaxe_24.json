@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_block"
+  },
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

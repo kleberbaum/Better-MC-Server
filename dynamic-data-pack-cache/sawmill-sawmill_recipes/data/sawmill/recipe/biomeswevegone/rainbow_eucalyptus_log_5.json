@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:rainbow_eucalyptus_wood"
+  },
+  "result": {
+    "id": "biomeswevegone:stripped_rainbow_eucalyptus_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

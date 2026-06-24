@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "wetland_whimsy:stripped_bald_cypress_wood"
+  },
+  "result": {
+    "id": "wetland_whimsy:stripped_bald_cypress_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

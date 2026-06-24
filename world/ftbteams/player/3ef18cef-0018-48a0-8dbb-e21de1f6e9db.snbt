@@ -1,0 +1,19 @@
+{
+	id: "3ef18cef-0018-48a0-8dbb-e21de1f6e9db"
+	type: "player"
+	player_name: "SkibidiMaster61"
+	ranks: {
+		3ef18cef-0018-48a0-8dbb-e21de1f6e9db: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SkibidiMaster61"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9A59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

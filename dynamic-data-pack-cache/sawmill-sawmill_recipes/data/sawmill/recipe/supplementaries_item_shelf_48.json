@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:ebony_log"
+    },
+    {
+      "item": "biomeswevegone:ebony_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_ebony_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_ebony_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:item_shelf",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

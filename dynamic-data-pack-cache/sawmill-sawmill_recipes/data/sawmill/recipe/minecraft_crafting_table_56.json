@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "hybrid-aquatic:driftwood_log"
+    },
+    {
+      "item": "hybrid-aquatic:driftwood_wood"
+    },
+    {
+      "item": "hybrid-aquatic:stripped_driftwood_log"
+    },
+    {
+      "item": "hybrid-aquatic:stripped_driftwood_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:crafting_table",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

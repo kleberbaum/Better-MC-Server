@@ -1,0 +1,19 @@
+{
+	id: "c41031bc-2c05-49a1-b2ab-0796f416d66a"
+	type: "player"
+	player_name: "kurama9410"
+	ranks: {
+		c41031bc-2c05-49a1-b2ab-0796f416d66a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "kurama9410"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

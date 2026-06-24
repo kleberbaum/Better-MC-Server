@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:palm_log"
+    },
+    {
+      "item": "biomeswevegone:palm_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_palm_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_palm_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_hoe",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

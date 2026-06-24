@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:cika_wood"
+  },
+  "result": {
+    "id": "biomeswevegone:stripped_cika_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

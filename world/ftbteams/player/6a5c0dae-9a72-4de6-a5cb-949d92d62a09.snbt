@@ -1,0 +1,19 @@
+{
+	id: "6a5c0dae-9a72-4de6-a5cb-949d92d62a09"
+	type: "player"
+	player_name: "SaniMati"
+	ranks: {
+		6a5c0dae-9a72-4de6-a5cb-949d92d62a09: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SaniMati"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF9D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

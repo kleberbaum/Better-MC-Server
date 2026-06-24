@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:aspen_log"
+    },
+    {
+      "item": "biomeswevegone:aspen_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_aspen_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_aspen_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_plate",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:spirit_wood"
+  },
+  "result": {
+    "id": "biomeswevegone:stripped_spirit_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "biomeswevegone:green_enchanted_planks"
+  },
+  "result": {
+    "id": "supplementaries:biomeswevegone/way_sign_green_enchanted",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

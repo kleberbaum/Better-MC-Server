@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:green_enchanted_log"
+  },
+  "result": {
+    "id": "biomeswevegone:green_enchanted_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

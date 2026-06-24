@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:green_enchanted_log"
+    },
+    {
+      "item": "biomeswevegone:green_enchanted_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_green_enchanted_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_green_enchanted_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:green_enchanted_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

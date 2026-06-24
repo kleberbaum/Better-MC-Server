@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:zelkova_log"
+    },
+    {
+      "item": "biomeswevegone:zelkova_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_zelkova_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_zelkova_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:wooden_shovel",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

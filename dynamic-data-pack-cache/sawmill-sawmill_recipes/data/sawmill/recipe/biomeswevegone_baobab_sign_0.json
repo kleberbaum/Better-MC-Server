@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:baobab_log"
+    },
+    {
+      "item": "biomeswevegone:baobab_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_baobab_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_baobab_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:baobab_sign",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

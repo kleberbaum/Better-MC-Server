@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:sakura_log"
+    },
+    {
+      "item": "biomeswevegone:sakura_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_sakura_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_sakura_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

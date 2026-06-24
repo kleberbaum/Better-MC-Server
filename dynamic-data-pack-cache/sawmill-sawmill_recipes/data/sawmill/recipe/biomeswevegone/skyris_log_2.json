@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "biomeswevegone:skyris_log"
+  },
+  "result": {
+    "id": "biomeswevegone:skyris_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

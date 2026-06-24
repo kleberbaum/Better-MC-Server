@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomeswevegone:mahogany_log"
+    },
+    {
+      "item": "biomeswevegone:mahogany_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_mahogany_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_mahogany_wood"
+    }
+  ],
+  "result": {
+    "id": "biomeswevegone:mahogany_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

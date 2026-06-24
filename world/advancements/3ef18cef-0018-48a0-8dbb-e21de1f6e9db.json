@@ -1,0 +1,161 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-06-24 11:16:06 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2026-06-24 11:16:06 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-06-24 11:16:06 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2026-06-24 11:16:06 +0000"
+    },
+    "done": true
+  },
+  "dmr:main": {
+    "criteria": {
+      "unlock_right_away": "2026-06-24 11:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2026-06-24 11:16:06 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-06-24 11:16:06 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-06-24 11:16:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-06-24 11:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:orchard": "2026-06-24 11:16:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:orchard": "2026-06-24 11:16:07 +0000",
+      "biomeswevegone:allium_shrubland": "2026-06-24 11:16:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_hills": "2026-06-24 11:17:04 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2026-06-24 11:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-06-24 11:18:13 +0000"
+    },
+    "done": true
+  },
+  "adventuredungeons:adventuredungeons/root": {
+    "criteria": {
+      "killed_by_something": "2026-06-24 11:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2026-06-24 11:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2026-06-24 11:18:47 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2026-06-24 11:18:51 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2026-06-24 11:18:51 +0000"
+    },
+    "done": true
+  },
+  "sawmill:recipes/sawmill": {
+    "criteria": {
+      "has_fences": "2026-06-24 11:18:51 +0000",
+      "has_slabs": "2026-06-24 11:18:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-06-24 11:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2026-06-24 11:18:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-24 11:19:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2026-06-24 11:19:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/drying/monster_jerky": {
+    "criteria": {
+      "has_meat": "2026-06-24 11:19:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2026-06-24 11:19:04 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

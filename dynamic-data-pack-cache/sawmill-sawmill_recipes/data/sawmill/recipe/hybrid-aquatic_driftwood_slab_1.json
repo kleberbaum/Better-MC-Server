@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "hybrid-aquatic:driftwood_planks"
+  },
+  "result": {
+    "id": "hybrid-aquatic:driftwood_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}
