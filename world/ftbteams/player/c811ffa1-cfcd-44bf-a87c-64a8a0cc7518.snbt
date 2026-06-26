@@ -1,0 +1,19 @@
+{
+	id: "c811ffa1-cfcd-44bf-a87c-64a8a0cc7518"
+	type: "player"
+	player_name: "EvilAntiSmiley"
+	ranks: {
+		c811ffa1-cfcd-44bf-a87c-64a8a0cc7518: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "EvilAntiSmiley"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF599D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}
