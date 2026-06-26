@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "c811ffa1cfcd44bfa87c64a8a0cc7518"
+	name: "EvilAntiSmiley#c811ffa1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
